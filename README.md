@@ -2,9 +2,7 @@
 Biopython-based toolkit for DNA and Protein sequence analysis, alignment, BLAST, motif finding, transcription, translation, Amino acid content calculation,  SNP detection, and NCBI data retrieval.
 
 
-# 📌 Project Title
-
-**Biopython DNA & Protein Analysis Toolkit**
+# 🧬🐍 Biopython DNA & Protein Analysis Toolkit
 
 
 
@@ -28,12 +26,17 @@ This project contains a collection of simple Biopython programs for performing c
 ✅ Protein physicochemical properties
 ✅ NCBI sequence download using Entrez
 
----
 
-# 🛠️ Technologies Used
 
-* Python 
-* Biopython
+# 🛠️ Tools & Platform Used
+
+- Python 3.x
+- Biopython
+- Jupyter Lab
+- pip Package Manager
+- NCBI Entrez
+- NCBI BLAST
+- NCBI Nucleotide Database
 
 
 # 🔬 Modules Covered
@@ -49,9 +52,8 @@ This project contains a collection of simple Biopython programs for performing c
 | Sequence Download    | Bio.Entrez             |
 | Sequence Parsing     | Bio.SeqIO              |
 
----
 
-# 🧬 Workflow
+# 🧬 Execution process/pipeline
 
 Input DNA Sequence
         │
@@ -105,6 +107,7 @@ print(dna.reverse_complement())
 # ⚠️ Note
 
 * NCBI BLAST requires an active internet connection.
+* Multiple sample DNA, RNA, and protein sequences were used for code execution and demonstration purposes.
 * NCBI Entrez requires a valid email address.
 * The `pairwise2` module may be deprecated in future Biopython versions; `Bio.Align.PairwiseAligner` is recommended.
 
