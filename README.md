@@ -6,9 +6,9 @@ Biopython-based toolkit for DNA and Protein sequence analysis, alignment, BLAST,
 
 **Biopython DNA & Protein Analysis Toolkit**
 
----
 
-# 📖 Objective
+
+# 📖 Aim
 
 This project contains a collection of simple Biopython programs for performing common bioinformatics analyses. It is designed for students, beginners, and researchers who want to learn the basics of sequence analysis using Python.
 
@@ -53,33 +53,30 @@ This project contains a collection of simple Biopython programs for performing c
 
 # 🧬 Workflow
 
-```text
-DNA Sequence
-      ↓
-Basic Sequence Operations
-      ↓
-Nucleotide Counting
-      ↓
-GC Content Analysis
-      ↓
-Transcription
-      ↓
-Translation
-      ↓
-Codon Analysis
-      ↓
-Restriction Site Analysis
-      ↓
-Sequence Alignment
-      ↓
-BLAST Search
-      ↓
-Motif Detection
-      ↓
-SNP Detection
-      ↓
+Input DNA Sequence
+        │
+        ▼
+Basic Sequence Analysis
+        │
+        ▼
+Nucleotide & GC Analysis
+        │
+        ▼
+Transcription & Translation
+        │
+        ▼
+Codon and Restriction Site Analysis
+        │
+        ▼
+Sequence Alignment & BLAST
+        │
+        ▼
+Motif and SNP Detection
+        │
+        ▼
 Protein Analysis
-      ↓
+        │
+        ▼
 NCBI Sequence Retrieval
 
 
