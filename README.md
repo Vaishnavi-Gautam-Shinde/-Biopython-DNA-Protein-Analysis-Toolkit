@@ -1,4 +1,4 @@
-# -Biopython-DNA-Protein-Analysis-Toolkit
+# Biopython: DNA/Protein Analysis Toolkit
 Biopython-based toolkit for DNA and Protein sequence analysis, alignment, BLAST, motif finding, transcription, translation, Amino acid content calculation,  SNP detection, and NCBI data retrieval.
 
 
